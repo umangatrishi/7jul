@@ -1,0 +1,10 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	int totalproblems,attemptedproblems;
+	cin>>totalproblems>>attemptedproblems;
+	
+	std::cout <<totalproblems-attemptedproblems<< std::endl;
+	
+}
